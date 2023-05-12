@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 
 
 <!--
 **ii2day/ii2day** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## 
+![](https://raw.githubusercontent.com/ii2day/ii2day/output/github-contribution-grid-snake.svg)
+
+---
+
+![ii2day's github stats](https://github-readme-stats.vercel.app/api?username=ii2day&show_icons=true&count_private=true&hide=stars&include_all_commits=true&theme=buefy)
+![ii2day's github languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ii2day&layout=compact)
