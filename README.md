@@ -1,7 +1,7 @@
 
 **ad astra per aspera** <br>
 **循此苦旅 以达天际**
-
+<div align="center">文本需要居中</div>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ii2day/ii2day/output/github-contribution-grid-snake-dark.svg">
